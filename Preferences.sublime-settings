@@ -1,0 +1,23 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"dictionary": "Packages/Language - French/fr-moderne.dic",
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"ColorPick",
+		"SublimeCodeIntel-master",
+		"DashDoc"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"theme": "Nexus.sublime-theme"
+}

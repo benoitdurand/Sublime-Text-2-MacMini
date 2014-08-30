@@ -1,0 +1,31 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"C++11",
+		"Color Highlighter",
+		"ColorPick",
+		"DashDoc",
+		"Emmet",
+		"Git",
+		"INI",
+		"Javascript Beautify",
+		"jQuery",
+		"jQuery Mobile 1.4 Snippets",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"ReadmePlease",
+		"Sass",
+		"SideBarEnhancements",
+		"Syntax Highlighting for Sass",
+		"Theme - Cobalt2",
+		"Theme - Nexus",
+		"Theme - Soda",
+		"VBScript"
+	]
+}

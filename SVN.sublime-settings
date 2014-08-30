@@ -1,0 +1,6 @@
+{
+	// The path to the version of SVN to use
+	// This setting has no effect on Windows since custom-compiled
+	// versions of SVN 1.6 and 1.7 are bundled to handle specific bugs
+	 "svn_binary_path": "/opt/subversion/bin/svn"
+}
